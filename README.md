@@ -1,5 +1,5 @@
 ﻿# banking-system-with-java
-1. Github Link: https://github.com/monir-ullah/banking-system-with-java.git
+1.Github Link: https://github.com/monir-ullah/banking-system-with-java.git
 
 2.Project Name: Banking System
 
